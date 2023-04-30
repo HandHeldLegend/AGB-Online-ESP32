@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "agb_online")(type "KiCad")(uri "${KIPRJMOD}/Library/agb_online.kicad_sym")(options "")(descr ""))
+)
